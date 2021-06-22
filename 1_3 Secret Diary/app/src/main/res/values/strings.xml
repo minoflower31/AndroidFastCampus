@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecretDiary</string>
+    <string name="title">The Secret Diary</string>
+    <string name="detail_title">비밀을 지켜줄게요 🤫</string>
+</resources>
