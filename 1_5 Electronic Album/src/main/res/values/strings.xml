@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ElectronicAlbum</string>
+    <string name="add_photo">사진 추가</string>
+    <string name="activate_album">전자 액자 활성화</string>
+</resources>
